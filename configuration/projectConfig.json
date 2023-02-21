@@ -3,7 +3,7 @@
     "repoType": "git",
     "git": {
         "githubConnectionArn": "arn:aws:codestar-connections:us-east-1:757420736997:connection/89770b77-ffeb-4bf4-9b66-90b75ee3f976",
-        "githubRepoOwner": "",
+        "githubRepoOwner": "jcassiojr",
         "githubRepoName": ""
     },
     "modelEndpointExportNamePrefix": "ModelHostingEndpoint",
